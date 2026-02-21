@@ -12,14 +12,6 @@
 		"scalar-smiles.json",
 		"scalar-stickman.json",
 		"scalar-videoplasty.json",
-		"stickerly_D1Q0RL_by_stickerly_official_bot.json",
-		"stickerly_PVS15B_by_stickerly_official_bot.json",
-		"stickerly_X3CW6P_by_stickerly_official_bot.json",
-		"stickerly_EJD7QA_by_stickerly_official_bot.json",
-		"stickerly_DAQ9NI_by_stickerly_official_bot.json",
-		"stickerly_2XE2QM_by_stickerly_official_bot.json",
-		"sailor_popeye.json",
-		"stickerly_T7GNCW_by_stickerly_official_bot.json",
 		"unicorn.json"
 	],
 	"homeserver_url": "https://matrix.janedrive.cc"
