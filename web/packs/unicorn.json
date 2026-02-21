@@ -1,0 +1,234 @@
+{
+	"title": "Unicorn",
+	"id": "Unicorn",
+	"stickers": [
+		{
+			"body": "UnicornBaby-1",
+			"url": "mxc://matrix.janedrive.cc/xaUvDwDEUmtfsFMvchJtoqZb",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 174065,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/xaUvDwDEUmtfsFMvchJtoqZb",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 174065,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:12516af6728ad6552d1a2cdd226372cc8410ad52e8529f21727db7d7e0eff7b6"
+		},
+		{
+			"body": "UnicornBaby-10",
+			"url": "mxc://matrix.janedrive.cc/DPCAlcPyydZMSYWKOmRBPnWb",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 169011,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/DPCAlcPyydZMSYWKOmRBPnWb",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 169011,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:c61146641b166cb7af891205b23dfc1bdc4da0ad62e3c01621ceb40037be2f9d"
+		},
+		{
+			"body": "UnicornBaby-11",
+			"url": "mxc://matrix.janedrive.cc/HwqcRLoTVxrUdAuPSUHXvqMx",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 144441,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/HwqcRLoTVxrUdAuPSUHXvqMx",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 144441,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:dc90165ce6d8238eeac027025464ef168e7b9915af874e675b6e988e629395bc"
+		},
+		{
+			"body": "UnicornBaby-12",
+			"url": "mxc://matrix.janedrive.cc/mvJfaHLQgGIZjbVikqzaSrzG",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 176313,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/mvJfaHLQgGIZjbVikqzaSrzG",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 176313,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:3203ca7537ba6fcbb5ea13fbe1485b31acbe9cffae1e3e8a2572d05d9e22c5f1"
+		},
+		{
+			"body": "UnicornBaby-2",
+			"url": "mxc://matrix.janedrive.cc/CZEnqKVqTXNrkcIfHkQlcChP",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 146457,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/CZEnqKVqTXNrkcIfHkQlcChP",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 146457,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:f664ea9e86ddbd94ff520397f932c18e8924fff99c1c63fca539032be1ae5c1b"
+		},
+		{
+			"body": "UnicornBaby-3",
+			"url": "mxc://matrix.janedrive.cc/ujUvctmhySFUCZqNgfAmonMn",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 154864,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/ujUvctmhySFUCZqNgfAmonMn",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 154864,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:8ada985779f2b3928eb53d8dc8f33aa962e019e7b3587c49b243aa6e4ac8d581"
+		},
+		{
+			"body": "UnicornBaby-4",
+			"url": "mxc://matrix.janedrive.cc/MgWvRoEmuNxfCwYfrXqEDXrj",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 149597,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/MgWvRoEmuNxfCwYfrXqEDXrj",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 149597,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:fc2545797143b8a074c11ed51083fe94c2d841dab04535178ad9a41d2d23b73e"
+		},
+		{
+			"body": "UnicornBaby-5",
+			"url": "mxc://matrix.janedrive.cc/YSmNeeJvqkucwtxAvYiGOllg",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 163077,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/YSmNeeJvqkucwtxAvYiGOllg",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 163077,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:fc9f7053ebd90d35db67c7dc116770c136b3fa4c94a59570d55679d6761a4d18"
+		},
+		{
+			"body": "UnicornBaby-6",
+			"url": "mxc://matrix.janedrive.cc/UtLDLdjHZhMjdKzpLfniMUZV",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 151824,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/UtLDLdjHZhMjdKzpLfniMUZV",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 151824,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:02b75cb3a0df804a7f8c1b8d97319179cbbffa367cb19b68126cee715726643c"
+		},
+		{
+			"body": "UnicornBaby-7",
+			"url": "mxc://matrix.janedrive.cc/UTlKfhRVchFWzGSUhVxHNIxx",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 158195,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/UTlKfhRVchFWzGSUhVxHNIxx",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 158195,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:cc069bad57214488b4b98115cece65bfcdd7beea65b5b6ae1598175090ac4499"
+		},
+		{
+			"body": "UnicornBaby-8",
+			"url": "mxc://matrix.janedrive.cc/mXWRThbsLoOyLOgcvRtIeBXr",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 140453,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/mXWRThbsLoOyLOgcvRtIeBXr",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 140453,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:e6bdf425ec176107149d56f6af157a4a6f8790075173fd9132a38b6c260444f1"
+		},
+		{
+			"body": "UnicornBaby-9",
+			"url": "mxc://matrix.janedrive.cc/tABPYGxqGLSfHEljZtDgIAcJ",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 165510,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.janedrive.cc/tABPYGxqGLSfHEljZtDgIAcJ",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 165510,
+					"mimetype": "image/png"
+				}
+			},
+			"msgtype": "m.sticker",
+			"id": "sha256:22e4131731b4692e21108d245dc6916c0a2a66d060e5c1fdc753f8e6922ec961"
+		}
+	]
+}
