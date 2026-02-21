@@ -1,4 +1,17 @@
 {
-	"packs": ["Secretpuppies.json", "UnicornBaby.json"],
+	"packs": [
+		"Secretpuppies.json",
+		"scalar-geeko.json",
+		"scalar-privacy_pam.json",
+		"scalar-rabbit.json",
+		"scalar-sheltie.json",
+		"scalar-smilies.json",
+		"scalar-isabella.json",
+		"scalar-loading_artist.json",
+		"scalar-sheltie.json",
+		"scalar-smiles.json",
+		"scalar-stickman.json",
+		"scalar-videoplasty.json"
+	],
 	"homeserver_url": "https://matrix.janedrive.cc"
 }
